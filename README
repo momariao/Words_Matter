@@ -1,0 +1,32 @@
+# WordsMatter 🌐💬
+
+During the *Women in Engineering Hackathon* held by the University of Waterloo, our team developed an innovative website called *WordsMatter*.
+
+## 💡 What is WordsMatter?
+
+*WordsMatter* is a web application that helps users edit and generate text to be more inclusive and accessible to all. It leverages the *Cohere API* to:
+
+- Analyze and interpret user input in real-time
+- Provide suggestions to improve inclusivity in language
+- Generate reworded, inclusive alternatives
+- Offer feedback to help users better navigate sensitive or exclusive language
+
+## 🛠️ Built With
+
+- HTML, CSS, JavaScript
+- Cohere API for NLP functionality
+- Teamwork, creativity, and 5 hours of focused hacking!
+
+## 👥 Our Team
+
+This project was built in just 5 hours by an incredible team of developers:
+
+- Angelina Kong  
+- Mia Lachica  
+- Sophia Nguyen  
+- Maria Omer
+
+---
+
+Thank you for checking out WordsMatter!  
+Language is powerful — let's use it thoughtfully.
